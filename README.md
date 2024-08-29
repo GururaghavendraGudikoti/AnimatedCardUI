@@ -17,4 +17,4 @@ Compatibility: Tested across different browsers to ensure consistent performance
 Getting Started
 Clone this repository:
 
-git clone https://github.com/GururaghavendraGudikoti/animated-credit-card-form.git
+git clone https://github.com/GururaghavendraGudikoti/AnimatedCardUI.git
