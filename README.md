@@ -1,7 +1,7 @@
 # AnimatedCardUI
 A project of a credit card interface, which is mainly used to show an impressive work on the front-end using HTML, CSS, and JavaScript; it features more interactive animation because it could actually act like the credit card itself. It will be ideal for developers who need further improvement in UI design skills.
 
-Live: https://6623518c26144c88e413d142--zesty-sorbet-7a0dfd.netlify.app/
+Live: https://serene-lokum-5e700d.netlify.app/
 
 Features
 Visual Feedback: Smooth animations guide users through the input process, providing visual cues for each step.
